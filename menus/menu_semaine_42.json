@@ -1,0 +1,119 @@
+{
+  "LUNDI": {
+    "date": "13 OCTOBRE",
+    "Hors d'œuvre": [
+      "Paté de campagne",
+      "LOCAUX Crudité",
+      "Salade Finlandaise (pomme de terre, saumon fumé,aneth)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Emincé de porc caramel",
+      "Poisson bordelaise"
+    ],
+    "Légumes / féculents": [
+      "Nouille chinoise",
+      "Poelée wok"
+    ],
+    "Fromages": [
+      "Mont cadi"
+    ],
+    "Desserts": [
+      "Yaourt bio",
+      "Fruits saison"
+    ]
+  },
+  "MARDI": {
+    "date": "14",
+    "Hors d'œuvre": [
+      "Salade pates, tomate, olive, thon",
+      "Tomate au balsamique"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Steak fromager",
+      "Poisson jour"
+    ],
+    "Légumes / féculents": [
+      "Riz julienne de légumes",
+      "Epinard créme"
+    ],
+    "Fromages": [
+      "Camembert"
+    ],
+    "Desserts": [
+      "Poire belle héléne",
+      "Yaourt brassé"
+    ]
+  },
+  "MERCREDI": {
+    "date": "15",
+    "Hors d'œuvre": [
+      "Salade choux, crevette, avocat, riz",
+      "Carottes rapées cumin cheddar"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Choucroute",
+      "Choucroute de la mer"
+    ],
+    "Légumes / féculents": [
+      "Pomme vapeur",
+      "Choucroute"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Grillé aux pommes"
+    ]
+  },
+  "JEUDI": {
+    "date": "16",
+    "Hors d'œuvre": [
+      "Soupe citrouille",
+      "Cake carotte, créme miel ginger",
+      "Œufs durs marbré (ketchup)"
+    ],
+    "Entrée chaude": [
+      "HALLOWEEN"
+    ],
+    "Plats": [
+      "Steak haché saignant",
+      "Poisson rouge"
+    ],
+    "Légumes / féculents": [
+      "Purée potiron cheddar",
+      "Pates encre de seiche"
+    ],
+    "Fromages": [
+      "Mimolette"
+    ],
+    "Desserts": [
+      "Churros",
+      "Salade litchi, raisin"
+    ]
+  },
+  "VENDREDI": {
+    "date": "17 OCTOBRE",
+    "Hors d'œuvre": [
+      "Crudités variées PS",
+      "LOCAUX"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Kebap",
+      "Poisson en tempura"
+    ],
+    "Légumes / féculents": [
+      "Frites",
+      "Tomate provençale"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Panaché de yaourts"
+    ]
+  }
+}

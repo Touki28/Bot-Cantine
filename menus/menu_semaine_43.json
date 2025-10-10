@@ -1,0 +1,111 @@
+{
+  "LUNDI": {
+    "date": "03 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Betterave vinaigrette",
+      "Paté foie"
+    ],
+    "Entrée chaude": [
+      "Feuilleté fromage"
+    ],
+    "Plats": [
+      "kefta voaille",
+      "Colin en crumble"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Poelée tagine"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Créme dessert spéculos",
+      "Fruits"
+    ]
+  },
+  "MARDI": {
+    "date": "04",
+    "Hors d'œuvre": [
+      "Carottes rapées",
+      "Salade Hawaienne (riz, ananas, poivrons, crevette, cajou)"
+    ],
+    "Entrée chaude": [
+      "RETOUR VACANCE"
+    ],
+    "Plats": [
+      "Paella",
+      "Poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Riz paella",
+      "Haricots verts et poivrons"
+    ],
+    "Fromages": [
+      "Ementhal"
+    ],
+    "Desserts": []
+  },
+  "MERCREDI": {
+    "date": "05",
+    "Hors d'œuvre": [
+      "Soupe du jour",
+      "Salade quinoa (concombre,aneth, yaourt, saumon fumé)",
+      "Saucisson sec"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Escalope de dinde",
+      "Poisson meuniére"
+    ],
+    "Légumes / féculents": [
+      "Choux fleur gratinė",
+      "Pates"
+    ],
+    "Fromages": [],
+    "Desserts": [
+      "Clafoutis"
+    ]
+  },
+  "JEUDI": {
+    "date": "06",
+    "Hors d'œuvre": [
+      "Crudités",
+      "Farfale"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Poulet fermier",
+      "Poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Frites",
+      "Petits pois à la française"
+    ],
+    "Fromages": [],
+    "Desserts": [
+      "Glace"
+    ]
+  },
+  "VENDREDI": {
+    "date": "07 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Terrine de poisson"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Pané de sarrasin",
+      "Poisson corn flakes"
+    ],
+    "Légumes / féculents": [
+      "Pommes vapeur",
+      "Courgette beurre d'ail"
+    ],
+    "Fromages": [
+      "Yaourt bio"
+    ],
+    "Desserts": [
+      "Fruits"
+    ]
+  }
+}
