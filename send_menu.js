@@ -50,8 +50,9 @@ if (!menu) {
   process.exit(0);
 }
 
+const ROLE_ID = "cantine";
 // Construire le message
-let message = `📅 **@cantine\nMenu du ${jourActuel} (${menu.date || "date inconnue"})**\n\n`;
+let message = `<@&${ROLE_ID}>\n\n📅 **Menu du ${jourActuel} (${menu.date || "date inconnue"})**\n\n`;
 for (const [categorie, plats] of Object.entries(menu)) {
   if (Array.isArray(plats) && plats.length > 0) {
     const icone = icones[categorie] || "📌";
