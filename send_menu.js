@@ -23,8 +23,20 @@ function getCurrentWeekNumber() {
   return Math.ceil((pastDaysOfYear + startOfYear.getDay() + 1) / 7);
 }
 
+
+
 // Déterminer le fichier JSON à charger
-const semaine = getCurrentWeekNumber();
+let semaine = getCurrentWeekNumber();
+
+// Forcer le jour actuel à vendredi si c'est samedi ou dimanche
+const jours = ["DIMANCHE","LUNDI","MARDI","MERCREDI","JEUDI","VENDREDI","SAMEDI"];
+const today = new Date();
+let jourActuel = jours[today.getDay()];
+if (jourActuel === "SAMEDI" || jourActuel === "DIMANCHE") {
+  jourActuel = "LUNDI";
+  semaine = semaine+1;
+}
+
 let jsonPath = path.join("./menus", `menu_semaine_${semaine}.json`);
 
 // Si le fichier n'existe pas, on prend le fichier par défaut
@@ -35,14 +47,6 @@ if (!fs.existsSync(jsonPath)) {
 
 // Charger le menu
 const data = JSON.parse(fs.readFileSync(jsonPath, "utf-8"));
-
-// Forcer le jour actuel à vendredi si c'est samedi ou dimanche
-const jours = ["DIMANCHE","LUNDI","MARDI","MERCREDI","JEUDI","VENDREDI","SAMEDI"];
-const today = new Date();
-let jourActuel = jours[today.getDay()];
-if (jourActuel === "SAMEDI" || jourActuel === "DIMANCHE") {
-  jourActuel = "VENDREDI";
-}
 
 const menu = data[jourActuel];
 if (!menu) {
