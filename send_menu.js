@@ -1,11 +1,9 @@
 import fs from "fs";
 import fetch from "node-fetch";
-import path from "path";
 
-// Webhook Discord
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 
-// Icônes des catégories
+// Définir les icônes pour chaque catégorie
 const icones = {
   "Hors d'œuvre": "🥗",
   "Entrée chaude": "🍲",
@@ -15,47 +13,23 @@ const icones = {
   "Desserts": "🍰"
 };
 
-// Fonction pour calculer le numéro de la semaine
-function getCurrentWeekNumber() {
-  const now = new Date();
-  const startOfYear = new Date(now.getFullYear(), 0, 1);
-  const pastDaysOfYear = Math.floor((now - startOfYear) / (24 * 60 * 60 * 1000));
-  return Math.ceil((pastDaysOfYear + startOfYear.getDay() + 1) / 7);
-}
-
-
-
-// Déterminer le fichier JSON à charger
-let semaine = getCurrentWeekNumber();
-
-// Forcer le jour actuel à vendredi si c'est samedi ou dimanche
-const jours = ["DIMANCHE","LUNDI","MARDI","MERCREDI","JEUDI","VENDREDI","SAMEDI"];
-const today = new Date();
-let jourActuel = jours[today.getDay()];
-if (jourActuel === "SAMEDI" || jourActuel === "DIMANCHE") {
-  jourActuel = "LUNDI";
-  semaine = semaine+1;
-}
-
-let jsonPath = path.join("./menus", `menu_semaine_${semaine}.json`);
-
-// Si le fichier n'existe pas, on prend le fichier par défaut
-if (!fs.existsSync(jsonPath)) {
-  console.warn(`⚠️ Le fichier ${jsonPath} n'existe pas. Utilisation du fichier par défaut menu_semaine.json`);
-  jsonPath = path.join("./menus", "menu_semaine.json");
-}
-
 // Charger le menu
-const data = JSON.parse(fs.readFileSync(jsonPath, "utf-8"));
+const data = JSON.parse(fs.readFileSync("./menus/menu_semaine.json", "utf-8"));
 
+// Trouver le jour actuel (forcé à vendredi pour "truquer")
+const jours = ["DIMANCHE","LUNDI","MARDI","MERCREDI","JEUDI","VENDREDI","SAMEDI"];
+// const today = new Date();
+// const jourActuel = jours[today.getDay()];
+const jourActuel = "VENDREDI"; // Forcer à vendredi
 const menu = data[jourActuel];
+
 if (!menu) {
   console.log(`❌ Aucun menu disponible pour ${jourActuel}`);
   process.exit(0);
 }
 
 // Construire le message
-let message = `📅 **Menu du ${jourActuel} (${menu.date || "date inconnue"})**\n\n`;
+let message = `@cantine\n📅 **Menu du ${jourActuel} (${menu.date || "date inconnue"})**\n\n`;
 for (const [categorie, plats] of Object.entries(menu)) {
   if (Array.isArray(plats) && plats.length > 0) {
     const icone = icones[categorie] || "📌";
@@ -63,8 +37,9 @@ for (const [categorie, plats] of Object.entries(menu)) {
   }
 }
 
-// Envoyer sur Discord via webhook
 console.log("Webhook utilisé :", WEBHOOK_URL);
+
+// Envoyer sur Discord
 await fetch(WEBHOOK_URL, {
   method: "POST",
   headers: { "Content-Type": "application/json" },
