@@ -8,8 +8,9 @@ const data = JSON.parse(fs.readFileSync("./menus/menu_semaine.json", "utf-8"));
 
 // Trouver le jour actuel
 const jours = ["DIMANCHE","LUNDI","MARDI","MERCREDI","JEUDI","VENDREDI","SAMEDI"];
-const today = new Date();
-const jourActuel = jours[today.getDay()];
+// const today = new Date();
+// const jourActuel = jours[today.getDay()];
+const jourActuel = "VENDREDI"; // Forcer à vendredi
 const menu = data[jourActuel];
 
 if (!menu) {
