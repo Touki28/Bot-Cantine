@@ -16,4 +16,4 @@ jobs:
       - run: npm install
       - run: npm start
         env:
-          WEBHOOK_URL: ${{ https://discordapp.com/api/webhooks/1426472066625962167/B7Azt3IjLCwmvEKcN6oPJCfNSrS2TuG1fO8prezUuYL48z0iz_AGN9SdghjSgqMciMTQ }}
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
