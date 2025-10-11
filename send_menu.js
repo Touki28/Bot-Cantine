@@ -26,6 +26,8 @@ for (const [categorie, plats] of Object.entries(menu)) {
   }
 }
 
+console.log("Webhook utilisé :", WEBHOOK_URL);
+
 // Envoyer sur Discord
 await fetch(WEBHOOK_URL, {
   method: "POST",
