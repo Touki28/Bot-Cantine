@@ -50,7 +50,7 @@ if (!menu) {
   process.exit(0);
 }
 
-const ROLE_ID = "cantine";
+const ROLE_ID = "1426489484941463643";
 // Construire le message
 let message = `<@&${ROLE_ID}>\n\n📅 **Menu du ${jourActuel} (${menu.date || "date inconnue"})**\n\n`;
 for (const [categorie, plats] of Object.entries(menu)) {
