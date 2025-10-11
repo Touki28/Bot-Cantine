@@ -1,14 +1,11 @@
 {
-  "name": "bot-menu-cantine",
+  "name": "menu-bot",
   "version": "1.0.0",
-  "description": "Bot Discord pour afficher les menus de la cantine",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node send_menu.js"
   },
   "dependencies": {
-    "discord.js": "^14.14.1",
-    "dotenv": "^17.2.3",
-    "pdf-parse": "^1.1.1"
+    "node-fetch": "^3.3.2"
   }
 }
