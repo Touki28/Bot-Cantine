@@ -3,10 +3,20 @@ import fetch from "node-fetch";
 
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 
+// Définir les icônes pour chaque catégorie
+const icones = {
+  "Hors d'œuvre": "🥗",
+  "Entrée chaude": "🍲",
+  "Plats": "🍽️",
+  "Légumes / féculents": "🥔",
+  "Fromages": "🧀",
+  "Desserts": "🍰"
+};
+
 // Charger le menu
 const data = JSON.parse(fs.readFileSync("./menus/menu_semaine.json", "utf-8"));
 
-// Trouver le jour actuel
+// Trouver le jour actuel (forcé à vendredi pour "truquer")
 const jours = ["DIMANCHE","LUNDI","MARDI","MERCREDI","JEUDI","VENDREDI","SAMEDI"];
 // const today = new Date();
 // const jourActuel = jours[today.getDay()];
@@ -23,7 +33,8 @@ let message = `📅 **Menu du ${jourActuel} (${menu.date || "date inconnue"})**\
 
 for (const [categorie, plats] of Object.entries(menu)) {
   if (Array.isArray(plats) && plats.length > 0) {
-    message += `🍽️ **${categorie}**\n${plats.map(p => `• ${p}`).join("\n")}\n\n`;
+    const icone = icones[categorie] || "📌";
+    message += `${icone} **${categorie}**\n${plats.map(p => `• ${p}`).join("\n")}\n\n`;
   }
 }
 
