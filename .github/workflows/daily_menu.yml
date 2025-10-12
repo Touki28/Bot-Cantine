@@ -2,7 +2,6 @@ name: Send Daily Menu
 on:
   schedule:
     - cron: '0 15 * * 1-5' # Tous les jours de semaine à 17h heure française (15h UTC)
-  workflow_dispatch:
 jobs:
   send-menu:
     runs-on: ubuntu-latest
