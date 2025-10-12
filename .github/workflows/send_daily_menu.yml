@@ -2,7 +2,7 @@ name: Send Daily Menu
 
 on:
   schedule:
-    - cron: '30 12 * * 1-5' # Tous les jours de semaine à 14h30 heure française (12h30 UTC)
+    - cron: '0 14 * * 1-5' # Tous les jours de semaine à 16h heure française (14h UTC)
   workflow_dispatch: # permet de le lancer manuellement
 
 jobs:
