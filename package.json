@@ -1,9 +1,10 @@
 {
-  "name": "menu-bot",
+  "name": "bot-cantine",
   "version": "1.0.0",
   "type": "module",
+  "main": "index.js",
   "scripts": {
-    "start": "node send_menu.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"
