@@ -3,15 +3,15 @@ name: Send Daily Menu
 on:
   schedule:
     - cron: '0 14 * * 1-5' # Tous les jours de semaine à 16h heure française (14h UTC)
-  workflow_dispatch: # permet de le lancer manuellement
+  workflow_dispatch:
 
 jobs:
   send-menu:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
