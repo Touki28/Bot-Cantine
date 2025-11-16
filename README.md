@@ -25,4 +25,6 @@ Le système est entièrement déployé sur **Vercel**.
 	│   ├───menu_semaine_41.json
 	│   └───...
 	│      
+	├───package-lock.json
+	├───package.json
 	└───README.md
