@@ -1,0 +1,124 @@
+{
+  "LUNDI": {
+    "date": "24 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Carottes rapées",
+      "Betterave vinaigrette"
+    ],
+    "Entrée chaude": [
+      "Pizza maison"
+    ],
+    "Plats": [
+      "Paupiette de veau sce champignons",
+      "Poisson sce tartare"
+    ],
+    "Légumes / féculents": [
+      "Gratin dauphinois",
+      "Champignons"
+    ],
+    "Fromages": [
+      "Chèvre buche"
+    ],
+    "Desserts": [
+      "Fromage blanc au coulis",
+      "Liégeois",
+      "Fruits de saison"
+    ]
+  },
+  "MARDI": {
+    "date": "25",
+    "Hors d'œuvre": [
+      "Terrine de poisson",
+      "Salade finlandaise (choux, crevette)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Blanquette de dinde",
+      "Filet de poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Macaroni",
+      "Brocoli"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Tartare ananas, banane",
+      "Gateau aux fruits"
+    ]
+  },
+  "MERCREDI": {
+    "date": "26",
+    "Hors d'œuvre": [
+      "Macédoine au curry",
+      "Salade céréales, concombre"
+    ],
+    "Entrée chaude": [
+      "Potage courgette st Moret"
+    ],
+    "Plats": [
+      "Pané de sarrasin",
+      "Poisson corn flakes"
+    ],
+    "Légumes / féculents": [
+      "Ebly",
+      "Purée st Germain (pois cassé)"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Yaourt bio",
+      "Clémentines"
+    ]
+  },
+  "JEUDI": {
+    "date": "27",
+    "Hors d'œuvre": [
+      "Cake de potiron",
+      "Salade buffalo (haricots rouge, maïs, avocat, poivron)"
+    ],
+    "Entrée chaude": [
+      "THANKSGINIG"
+    ],
+    "Plats": [
+      "Roti de dinde au cranberry",
+      "Poisson au chedar"
+    ],
+    "Légumes / féculents": [
+      "Pommes croquette",
+      "Poele texane (patate douce, h, vert, poivrons)"
+    ],
+    "Fromages": [
+      "Mimolette"
+    ],
+    "Desserts": [
+      "Pan cake",
+      "Brownie"
+    ]
+  },
+  "VENDREDI": {
+    "date": "28 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Buffet de crudités",
+      "Œufs durs mayonnaise"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Saucisse de Toulouse(volaille)",
+      "Poisson en tempura"
+    ],
+    "Légumes / féculents": [
+      "Lentilles",
+      "Duo de carottes"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Salade de fruits",
+      "Panaché de yaourt"
+    ]
+  }
+}

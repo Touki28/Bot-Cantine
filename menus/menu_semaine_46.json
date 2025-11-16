@@ -1,0 +1,115 @@
+{
+  "LUNDI": {
+    "date": "10 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Salade grecque",
+      "Betteraves mimosa",
+      "Salade paysanne (céréales,œufs,carotte)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Chipolatas",
+      "Dos de colin sauce créme"
+    ],
+    "Légumes / féculents": [
+      "Purée",
+      "Poelée légumes (panais)"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Créme dessert chocolat",
+      "Fromage blanc",
+      "Fruits"
+    ]
+  },
+  "MARDI": {
+    "date": "11 NOVEMBRE",
+    "Hors d'œuvre": [
+      "FÉRIÉ"
+    ],
+    "Entrée chaude": [
+      "FÉRIÉ"
+    ],
+    "Plats": [
+      "FÉRIÉ"
+    ],
+    "Légumes / féculents": [
+      "FÉRIÉ"
+    ],
+    "Fromages": [
+      "FÉRIÉ"
+    ],
+    "Desserts": [
+      "FÉRIÉ"
+    ]
+  },
+  "MERCREDI": {
+    "date": "12 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Salade fécampoise (pomme de terre, hareng)",
+      "Rillette"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Carbonade flammande",
+      "Fish & chips"
+    ],
+    "Légumes / féculents": [
+      "Coquillette",
+      "Duo de carottes"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Compote crumble.",
+      "Fruits saison"
+    ]
+  },
+  "JEUDI": {
+    "date": "13 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Céleri, moutarde à l'ancienne",
+      "Taboulé"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Pizza aux fromages"
+    ],
+    "Légumes / féculents": [
+      "Salade verte"
+    ],
+    "Fromages": [
+      "Tome pyrénées"
+    ],
+    "Desserts": [
+      "Génoise créme anglaise",
+      "Fromage blanc caramel beurre salé"
+    ]
+  },
+  "VENDREDI": {
+    "date": "14 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Buffet crudités",
+      "Terrine de poisson"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Emincé de poulet",
+      "Poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Riz",
+      "Epinard"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Panaché yaourt",
+      "Salade de fruits"
+    ]
+  }
+}

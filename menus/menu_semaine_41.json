@@ -1,0 +1,116 @@
+{
+  "LUNDI": {
+    "date": "06 octobre",
+    "Hors d'œuvre": [
+      "Salade Buffalo (h, rouge, mais, avocat, tomate, tacos)",
+      "Rillettes"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Emincé volaille",
+      "Poisson pané"
+    ],
+    "Légumes / féculents": [
+      "Riz",
+      "Champignon"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Mousse chocolat",
+      "Fruits"
+    ]
+  },
+  "MARDI": {
+    "date": "07 octobre",
+    "Hors d'œuvre": [
+      "Soupe du jour",
+      "Salade de pates légumes grillés"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Langue sauce piquante",
+      "Poisson façon crumble(tartare)"
+    ],
+    "Légumes / féculents": [
+      "Purée",
+      "brocoli"
+    ],
+    "Fromages": [
+      "Tome grise"
+    ],
+    "Desserts": [
+      "Gateau au yaourt tutti fruti",
+      "yaourt aromatisé"
+    ]
+  },
+  "MERCREDI": {
+    "date": "08 octobre",
+    "Hors d'œuvre": [
+      "Salade riz (fruits de mer, chorizo, poivrons)",
+      "Sardines"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Tortellini"
+    ],
+    "Légumes / féculents": [
+      "Salade verte"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Compote pomme brisure biscuits",
+      "Flan nappé",
+      "Litchie"
+    ]
+  },
+  "JEUDI": {
+    "date": "09 octobre",
+    "Hors d'œuvre": [
+      "LOCAUX Salade de choux rouge",
+      "Salade de perle sauce cocktail",
+      "Homous de bettarave, sésame"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Pavé de saumon",
+      "Jambon sauce aurore"
+    ],
+    "Légumes / féculents": [
+      "Pomme vitelotte",
+      "LOCAUX Choux fleurs"
+    ],
+    "Fromages": [
+      "Edam ou Gouda"
+    ],
+    "Desserts": [
+      "Pavlova framboise",
+      "Fromage blanc coulis"
+    ]
+  },
+  "VENDREDI": {
+    "date": "10 octobre",
+    "Hors d'œuvre": [
+      "Macédoine, surimi",
+      "Crudités"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Boulette de boeuf",
+      "Poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Courgettes au thym"
+    ],
+    "Fromages": [
+      "Ementhal"
+    ],
+    "Desserts": [
+      "Panaché de yaourts"
+    ]
+  }
+}

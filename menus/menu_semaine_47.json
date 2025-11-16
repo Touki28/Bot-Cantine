@@ -1,0 +1,120 @@
+{
+  "LUNDI": {
+    "date": "17 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Salade Buffalo (haricots rouges, avocat, poivron, tacos)",
+      "Tomate au pesto"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Hachis parmentier",
+      "Branadade de poisson"
+    ],
+    "Légumes / féculents": [
+      "Salade verte"
+    ],
+    "Fromages": [
+      "Buche du pilat"
+    ],
+    "Desserts": [
+      "Liégeois vanille",
+      "Fromage blanc miel"
+    ]
+  },
+  "MARDI": {
+    "date": "18",
+    "Hors d'œuvre": [
+      "Salade auvergnate (pomme de terre, gésiers, croutons)",
+      "Carottes rapées",
+      "Paté de foie"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Sauté de dinde provençale",
+      "Poisson jour aux épices"
+    ],
+    "Légumes / féculents": [
+      "Pomme vapeur",
+      "Méli melo de carottes"
+    ],
+    "Fromages": [
+      "Mont cadi"
+    ],
+    "Desserts": [
+      "Ile flottante",
+      "Compote de fruits",
+      "Fruits"
+    ]
+  },
+  "MERCREDI": {
+    "date": "19",
+    "Hors d'œuvre": [
+      "Salade pates, légumes grillées",
+      "Concombre sauce blanche"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Beignets de calamar",
+      "Pané fromager"
+    ],
+    "Légumes / féculents": [
+      "Riz",
+      "Courgette au paprika"
+    ],
+    "Fromages": [
+      "Ementhal"
+    ],
+    "Desserts": [
+      "Ananas frais",
+      "Yaourt bio"
+    ]
+  },
+  "JEUDI": {
+    "date": "20",
+    "Hors d'œuvre": [
+      "Pomelos",
+      "Taboulé local (semoule, céleri, carotte, choux)"
+    ],
+    "Entrée chaude": [
+      "Velouté de tomates"
+    ],
+    "Plats": [
+      "Emincé bœuf barbecue",
+      "Poisson du jour coulis poivrons"
+    ],
+    "Légumes / féculents": [
+      "Torti",
+      "Légumes façon tajine"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Gateau chocolat",
+      "Yaourt brassé",
+      "Fruits"
+    ]
+  },
+  "VENDREDI": {
+    "date": "21 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Buffet crudité"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Poisson du jour",
+      "Cordon bleue"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Ratatouille"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Créme dessert caramel",
+      "Fruit saison"
+    ]
+  }
+}

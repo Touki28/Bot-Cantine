@@ -1,0 +1,125 @@
+{
+  "LUNDI": {
+    "date": "03 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Terrine de poisson",
+      "Salade niçoise (pommoe de terre, thon, poivron)"
+    ],
+    "Entrée chaude": [
+      "Feuilleté comté"
+    ],
+    "Plats": [
+      "Kefta de volaille",
+      "Colin façon crumble"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Légumes tajine"
+    ],
+    "Fromages": [
+      "Camembert"
+    ],
+    "Desserts": [
+      "Créme caramel (pot)",
+      "Fruit de saison LOCAUX",
+      "Yaourt"
+    ]
+  },
+  "MARDI": {
+    "date": "04",
+    "Hors d'œuvre": [
+      "Salade quinoa, lentille rose (quinoa, lentille rose, féta, carotte)",
+      "Paté de campagne LOCAUX"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Blanquette dinde",
+      "Filet de poisson dieppoise"
+    ],
+    "Légumes / féculents": [
+      "Riz juliennne de légumes",
+      "Brocoli"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Mousse chocolat",
+      "Clémentines",
+      "Yaourt aromatisé"
+    ]
+  },
+  "MERCREDI": {
+    "date": "05",
+    "Hors d'œuvre": [
+      "Salade Hawaïenne (riz, ananas, crevette, avocat)",
+      "Choux blanc, crouton, gruyére"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Cuisse de poule confite",
+      "Filet poisson tempura"
+    ],
+    "Légumes / féculents": [
+      "Gratin choux fleurs",
+      "Pomme vapeur",
+      "Pates"
+    ],
+    "Fromages": [
+      "Mont cadi"
+    ],
+    "Desserts": [
+      "Muffins fruits rouge",
+      "Yaourt bio",
+      "Mousse chocolat"
+    ]
+  },
+  "JEUDI": {
+    "date": "06",
+    "Hors d'œuvre": [
+      "Saucissson à l'ail",
+      "Salade ebly, légumes grillés, mozza"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Sauté de porc marengo LOCAUX",
+      "Poisson du jour sauce tomate"
+    ],
+    "Légumes / féculents": [
+      "Haricots blanc façon cassoulet",
+      "Pates"
+    ],
+    "Fromages": [
+      "Mimolette"
+    ],
+    "Desserts": [
+      "Yaourt aux fruits",
+      "Cookie maison",
+      "Panache de yaourt"
+    ]
+  },
+  "VENDREDI": {
+    "date": "07 NOVEMBRE",
+    "Hors d'œuvre": [
+      "Salade pates, surimi",
+      "Crudités PRODUITS LOCAUX"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Omelette",
+      "Croustillant fromager"
+    ],
+    "Légumes / féculents": [
+      "Frites",
+      "Haricots verts PRODUITS LOCAUX"
+    ],
+    "Fromages": [
+      "yaourt nature (pot)"
+    ],
+    "Desserts": [
+      "Corbeille de fruits",
+      "Yaourt aux fruits",
+      "Cookie maison"
+    ]
+  }
+}
