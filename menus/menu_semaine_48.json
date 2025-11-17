@@ -1,23 +1,23 @@
 {
   "LUNDI": {
-    "date": "24 NOVEMBRE",
+    "date": "24 novembre",
     "Hors d'œuvre": [
-      "Carottes rapées",
+      "Carottes râpées",
       "Betterave vinaigrette"
     ],
     "Entrée chaude": [
       "Pizza maison"
     ],
     "Plats": [
-      "Paupiette de veau sce champignons",
-      "Poisson sce tartare"
+      "Paupiette de veau sauce champignons",
+      "Poisson sauce tartare"
     ],
     "Légumes / féculents": [
       "Gratin dauphinois",
       "Champignons"
     ],
     "Fromages": [
-      "Chèvre buche"
+      "Chèvre bûche"
     ],
     "Desserts": [
       "Fromage blanc au coulis",
@@ -25,8 +25,9 @@
       "Fruits de saison"
     ]
   },
+
   "MARDI": {
-    "date": "25",
+    "date": "25 novembre",
     "Hors d'œuvre": [
       "Terrine de poisson",
       "Salade finlandaise (choux, crevette)"
@@ -44,26 +45,27 @@
       "Fromage blanc"
     ],
     "Desserts": [
-      "Tartare ananas, banane",
-      "Gateau aux fruits"
+      "Gâteau ananas-banane",
+      "Fruits"
     ]
   },
+
   "MERCREDI": {
-    "date": "26",
+    "date": "26 novembre",
     "Hors d'œuvre": [
       "Macédoine au curry",
-      "Salade céréales, concombre"
+      "Salade céréales-concombre"
     ],
     "Entrée chaude": [
-      "Potage courgette st Moret"
+      "Potage courgette St Môret"
     ],
     "Plats": [
-      "Pané de sarrasin",
-      "Poisson corn flakes"
+      "Omelette",
+      "Galette de sarrasin"
     ],
     "Légumes / féculents": [
       "Ebly",
-      "Purée st Germain (pois cassé)"
+      "Purée St Germain (pois cassé)"
     ],
     "Fromages": [
       "Brie"
@@ -73,41 +75,41 @@
       "Clémentines"
     ]
   },
+
   "JEUDI": {
-    "date": "27",
+    "date": "27 novembre",
     "Hors d'œuvre": [
       "Cake de potiron",
-      "Salade buffalo (haricots rouge, maïs, avocat, poivron)"
+      "Salade Buffalo (haricots rouges, maïs, avocat, poivron)"
     ],
-    "Entrée chaude": [
-      "THANKSGINIG"
-    ],
+    "Entrée chaude": [],
     "Plats": [
-      "Roti de dinde au cranberry",
-      "Poisson au chedar"
+      "Rôti de dinde au cranberry",
+      "Poisson au cheddar"
     ],
     "Légumes / féculents": [
-      "Pommes croquette",
-      "Poele texane (patate douce, h, vert, poivrons)"
+      "Pommes rissolées",
+      "Poêlée texane (patate douce, haricot vert, poivrons)"
     ],
     "Fromages": [
       "Mimolette"
     ],
     "Desserts": [
-      "Pan cake",
+      "Salade de fruits",
       "Brownie"
     ]
   },
+
   "VENDREDI": {
-    "date": "28 NOVEMBRE",
+    "date": "28 novembre",
     "Hors d'œuvre": [
       "Buffet de crudités",
       "Œufs durs mayonnaise"
     ],
     "Entrée chaude": [],
     "Plats": [
-      "Saucisse de Toulouse(volaille)",
-      "Poisson en tempura"
+      "Saucisse de Toulouse (volaille)",
+      "Poisson façon papillote"
     ],
     "Légumes / féculents": [
       "Lentilles",
@@ -117,8 +119,7 @@
       "Yaourt nature"
     ],
     "Desserts": [
-      "Salade de fruits",
-      "Panaché de yaourt"
+      "Panaché de yaourts"
     ]
   }
 }
