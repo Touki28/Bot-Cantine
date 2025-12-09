@@ -1,0 +1,122 @@
+{
+  "LUNDI": {
+    "date": "08 décembre",
+    "Hors d'œuvre": [
+      "Salade antiboise (pomme de terre, thon, tomate)",
+      "Betterave au chèvre frais"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Émincé de dinde au bourrin",
+      "Filet de colin ail fines herbes"
+    ],
+    "Légumes / féculents": [
+      "Riz créole",
+      "Duo haricots beurre / verts"
+    ],
+    "Fromages": [
+      "Camembert"
+    ],
+    "Desserts": [
+      "Crème dessert chocolat",
+      "Banane"
+    ]
+  },
+
+  "MARDI": {
+    "date": "09 décembre",
+    "Hors d'œuvre": [
+      "Saucisson sec",
+      "Chou blanc, carottes, fromage blanc"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Sauté de bœuf Stroganoff (paprika)",
+      "Poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Pomme vapeur",
+      "Courgettes"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Poire au coulis de fruits rouges",
+      "Yaourt bio"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "10 décembre",
+    "Hors d'œuvre": [
+      "Salade pâtes, surimi, tomate",
+      "Coleslaw"
+    ],
+    "Entrée chaude": [
+      "Crème Dubarry (choux-fleurs)"
+    ],
+    "Plats": [
+      "Tarte oignons–butternut",
+      "Poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Salade verte"
+    ],
+    "Fromages": [
+      "Saint-Paulin"
+    ],
+    "Desserts": [
+      "Compote de pommes",
+      "Clémentine"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "11 décembre",
+    "Hors d'œuvre": [
+      "Salade mexicaine (riz, poivrons, maïs)",
+      "Carottes râpées"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Côte de porc au pain d'épices",
+      "Poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Purée",
+      "Carottes braisées"
+    ],
+    "Fromages": [
+      "Tome des Pyrénées"
+    ],
+    "Desserts": [
+      "Clafoutis aux pêches",
+      "Mousse chocolat"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "12 décembre",
+    "Hors d'œuvre": [
+      "Buffet de crudités",
+      "Terrine de poisson"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Merguez",
+      "Poisson meunière"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Ratatouille"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Panaché de yaourts",
+      "Salade de fruits"
+    ]
+  }
+}

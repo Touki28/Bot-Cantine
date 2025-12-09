@@ -1,0 +1,121 @@
+{
+  "LUNDI": {
+    "date": "15 décembre",
+    "Hors d'œuvre": [
+      "Betterave aux framboises",
+      "Rillettes",
+      "Salade niçoise (pomme de terre, thon)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Blanc de poulet à l'estragon",
+      "Filet colin bordelaise"
+    ],
+    "Légumes / féculents": [
+      "Farfalle",
+      "Brocoli"
+    ],
+    "Fromages": [
+      "Camembert"
+    ],
+    "Desserts": [
+      "Compote de pommes",
+      "Yaourt aux fruits"
+    ]
+  },
+
+  "MARDI": {
+    "date": "16 décembre",
+    "Hors d'œuvre": [
+      "Salade de pâtes légumes confits",
+      "Coleslaw"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Escalope de porc à l'ananas",
+      "Poisson du jour beurre blanc"
+    ],
+    "Légumes / féculents": [
+      "Riz julienne de légumes",
+      "Duo panais–carotte"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Clafoutis poire",
+      "Fruits de saison"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "17 décembre",
+    "Hors d'œuvre": [
+      "Céleri, fromage blanc, pommes, noix",
+      "Salade riz, tomate, maïs"
+    ],
+    "Entrée chaude": [
+      "Potage de légumes"
+    ],
+    "Plats": [
+      "Hachis parmentier",
+      "Brandade de poisson"
+    ],
+    "Légumes / féculents": [
+      "Salade verte"
+    ],
+    "Fromages": [
+      "Saint-Paulin"
+    ],
+    "Desserts": [
+      "Crème dessert chocolat",
+      "Yaourt bio"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "18 décembre",
+    "Hors d'œuvre": [
+      "Repas Noël"
+    ],
+    "Entrée chaude": [
+      "Repas Noël"
+    ],
+    "Plats": [
+      "Repas Noël"
+    ],
+    "Légumes / féculents": [
+      "Repas Noël"
+    ],
+    "Fromages": [
+      "Repas Noël"
+    ],
+    "Desserts": [
+      "Repas Noël"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "19 décembre",
+    "Hors d'œuvre": [
+      "Crudités",
+      "Terrine de poisson"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Boulette de bœuf",
+      "Poisson pané"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Ratatouille"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Panaché de yaourts",
+      "Corbeille de fruits"
+    ]
+  }
+}
