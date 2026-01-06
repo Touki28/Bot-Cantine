@@ -1,0 +1,125 @@
+{
+  "LUNDI": {
+    "date": "05 janvier",
+    "Hors d'œuvre": [
+      "Betterave vinaigrette",
+      "Salade pomme de terre thon",
+      "Tomates mozzarella"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Boulette de bœuf",
+      "Poisson meunière"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Ratatouille"
+    ],
+    "Fromages": [
+      "Camembert"
+    ],
+    "Desserts": [
+      "Mousse chocolat",
+      "Banane",
+      "Fruits"
+    ]
+  },
+
+  "MARDI": {
+    "date": "06 janvier",
+    "Hors d'œuvre": [
+      "Taboulé aux agrumes et cannelle",
+      "Carottes râpées"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Saucisse de volaille",
+      "Poisson sauce dugléré"
+    ],
+    "Légumes / féculents": [
+      "Purée",
+      "Poêlée de légumes"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Ananas frais",
+      "Yaourt aromatisé"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "07 janvier",
+    "Hors d'œuvre": [
+      "Céleri rémoulade",
+      "Choux blanc sauce blanche maison",
+      "Pâté de foie"
+    ],
+    "Entrée chaude": [
+      "Soupe de légumes"
+    ],
+    "Plats": [
+      "Émincé de bœuf mariné",
+      "Poisson du jour sauce crème"
+    ],
+    "Légumes / féculents": [
+      "Pâtes",
+      "Choux-fleurs"
+    ],
+    "Fromages": [
+      "Mont Cadi"
+    ],
+    "Desserts": [
+      "Yaourt bio",
+      "Clémentines"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "08 janvier",
+    "Hors d'œuvre": [
+      "Salade de pâtes (poivron, olive)",
+      "Œufs durs mayonnaise"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Rôti de porc au cidre",
+      "Blanquette de poisson"
+    ],
+    "Légumes / féculents": [
+      "Lentilles",
+      "Duo carottes panais"
+    ],
+    "Fromages": [
+      "Emmental"
+    ],
+    "Desserts": [
+      "Gâteau chocolat",
+      "Poire au coulis de fruits rouges"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "09 janvier",
+    "Hors d'œuvre": [
+      "Buffet de crudités"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Œufs durs",
+      "Poisson beurre citronné"
+    ],
+    "Légumes / féculents": [
+      "Épinards à la crème",
+      "Pommes vapeur"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Liégeois vanille",
+      "Fromage blanc fruité"
+    ]
+  }
+}

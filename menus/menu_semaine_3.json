@@ -1,0 +1,122 @@
+{
+  "LUNDI": {
+    "date": "12 janvier",
+    "Hors d'œuvre": [
+      "Salade piémontaise (dinde)",
+      "Tomate, maïs, croûtons"
+    ],
+    "Entrée chaude": [
+      "Soupe de légumes au St Môret"
+    ],
+    "Plats": [
+      "Émincé de dinde forestier",
+      "Filet de colin sauce poireaux"
+    ],
+    "Légumes / féculents": [
+      "Riz créole",
+      "Champignons"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Crème dessert chocolat",
+      "Banane"
+    ]
+  },
+
+  "MARDI": {
+    "date": "13 janvier",
+    "Hors d'œuvre": [
+      "Céréales au curry, citron vert, crevettes",
+      "Salade coleslaw"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Sauté de porc marengo",
+      "Filet de poisson sauce dieppoise"
+    ],
+    "Légumes / féculents": [
+      "Purée de carottes",
+      "Brocoli"
+    ],
+    "Fromages": [
+      "Tome des Pyrénées"
+    ],
+    "Desserts": [
+      "Flan nappé",
+      "Clémentines"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "14 janvier",
+    "Hors d'œuvre": [
+      "Salade de betteraves au chèvre",
+      "Macédoine de légumes et pommes"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Cuisse de poulet rôti",
+      "Poisson façon tempura"
+    ],
+    "Légumes / féculents": [
+      "Frites",
+      "Duo haricots verts beurre"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Galette des rois",
+      "Fruits de saison"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "15 janvier",
+    "Hors d'œuvre": [
+      "Déclinaison de maïs (houmous, pop-corn nature)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Encornet à l'armoricaine",
+      "Omelette"
+    ],
+    "Légumes / féculents": [
+      "Ebly à la tomate",
+      "Ratatouille"
+    ],
+    "Fromages": [
+      "Chèvre"
+    ],
+    "Desserts": [
+      "Ananas, crème anglaise coco",
+      "Yaourt bio"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "16 janvier",
+    "Hors d'œuvre": [
+      "Buffet de crudités",
+      "Jambon fumé"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Merguez",
+      "Poisson façon papillote"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Légumes tajine"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Panaché de yaourts",
+      "Salade de fruits"
+    ]
+  }
+}
