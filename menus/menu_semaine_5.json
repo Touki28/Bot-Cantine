@@ -1,0 +1,122 @@
+{
+  "LUNDI": {
+    "date": "26 janvier",
+    "Hors d'œuvre": [
+      "Salade mexicaine (haricots rouges, avocat, maïs, tomate)",
+      "Tomate au pesto maison"
+    ],
+    "Entrée chaude": [
+      "Crème de chou-fleur au sésame"
+    ],
+    "Plats": [
+      "Escalope de porc à la diable",
+      "Filet de colin sauce moutarde"
+    ],
+    "Légumes / féculents": [
+      "Pommes vapeur persillées",
+      "Brocoli"
+    ],
+    "Fromages": [
+      "Camembert"
+    ],
+    "Desserts": [
+      "Compote de pommes",
+      "Yaourt aux fruits",
+      "Fruits de saison"
+    ]
+  },
+
+  "MARDI": {
+    "date": "27 janvier",
+    "Hors d'œuvre": [
+      "Pâté de campagne",
+      "Salade espagnole (chou blanc, emmental, noix)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Bolognaise",
+      "Deux saumons"
+    ],
+    "Légumes / féculents": [
+      "Salade verte",
+      "Tagliatelles"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Tartelette citron",
+      "Clémentines"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "28 janvier",
+    "Hors d'œuvre": [
+      "Salade berlinoise",
+      "Salade de riz (poivron, tomate, olive, épices paella)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Pizza normande",
+      "Tartiflette normande"
+    ],
+    "Légumes / féculents": [
+      "Lentilles",
+      "Purée de potiron"
+    ],
+    "Fromages": [
+      "Mimolette"
+    ],
+    "Desserts": [
+      "Crème dessert spéculoos",
+      "Banane"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "29 janvier",
+    "Hors d'œuvre": [
+      "Salade de pâtes (surimi, tomate, ketchup)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Saucisse de volaille",
+      "Poisson du jour"
+    ],
+    "Légumes / féculents": [
+      "Riz créole",
+      "Courgettes rôties au thym"
+    ],
+    "Fromages": [
+      "Tome blanche"
+    ],
+    "Desserts": [
+      "Diplomate",
+      "Yaourt bio"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "30 janvier",
+    "Hors d'œuvre": [
+      "Salade marocaine (carotte, pois chiche, orange)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Boulette de bœuf à l'orientale",
+      "Poisson du jour coulis de poivron"
+    ],
+    "Légumes / féculents": [
+      "Riz",
+      "Tomate provençale"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Yaourt aux fruits",
+      "Mousse chocolat"
+    ]
+  }
+}

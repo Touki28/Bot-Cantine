@@ -1,0 +1,128 @@
+{
+  "LUNDI": {
+    "date": "19 janvier",
+    "Hors d'œuvre": [
+      "Andouille",
+      "Salade pomme de terre au thon",
+      "Tomate vinaigrette"
+    ],
+    "Entrée chaude": [
+      "Soupe de légumes"
+    ],
+    "Plats": [
+      "Émincé de poulet vallée d'Auge",
+      "Filet de poisson sauce cidre"
+    ],
+    "Légumes / féculents": [
+      "Haricots verts au beurre d'ail",
+      "Pommes sautées"
+    ],
+    "Fromages": [
+      "Emmental"
+    ],
+    "Desserts": [
+      "Fromage blanc au coulis",
+      "Clémentines",
+      "Fruits de saison"
+    ]
+  },
+
+  "MARDI": {
+    "date": "20 janvier",
+    "Hors d'œuvre": [
+      "Salade quinoa, lentilles, tomate",
+      "Salade bretonne (chou-fleur, carotte)",
+      "Betterave, pomme, noix"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Rougail saucisse",
+      "Poisson du jour créole"
+    ],
+    "Légumes / féculents": [
+      "Riz",
+      "Courgettes et poivrons"
+    ],
+    "Fromages": [
+      "Saint-Paulin"
+    ],
+    "Desserts": [
+      "Far breton",
+      "Crème dessert praliné",
+      "Fruits de saison"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "21 janvier",
+    "Hors d'œuvre": [
+      "Céleri au fromage blanc et raisins",
+      "Carottes râpées, ananas, surimi",
+      "Salade chou rouge, poire, miel"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Steak végétarien maison (lentilles)",
+      "Omelette"
+    ],
+    "Légumes / féculents": [
+      "Pommes vapeur",
+      "Épinards en gratin"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Yaourt fruits bio",
+      "Yaourt aux fruits",
+      "Fruits"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "22 janvier",
+    "Hors d'œuvre": [
+      "Buffet de crudités",
+      "Cake au chèvre et légumes"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Langue de bœuf sauce piquante",
+      "Poisson du jour sauce moutarde"
+    ],
+    "Légumes / féculents": [
+      "Purée",
+      "Poêlée de légumes anciens (panais, butternut)"
+    ],
+    "Fromages": [
+      "Tome blanche"
+    ],
+    "Desserts": [
+      "Île flottante",
+      "Salade de fruits"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "23 janvier",
+    "Hors d'œuvre": [
+      "Terrine de poisson"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Lamelles de kebab",
+      "Moules"
+    ],
+    "Légumes / féculents": [
+      "Frites",
+      "Tomate provençale"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Panaché de yaourts",
+      "Fruits"
+    ]
+  }
+}
