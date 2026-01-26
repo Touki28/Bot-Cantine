@@ -1,0 +1,121 @@
+{
+  "LUNDI": {
+    "date": "02 février",
+    "Hors d'œuvre": [
+      "Rillettes",
+      "Taboulé aux agrumes (riz, crevette, avocat, ananas)"
+    ],
+    "Entrée chaude": [
+      "Soupe de citrouille"
+    ],
+    "Plats": [
+      "Blanc de poulet forestier",
+      "Filet de colin à la bordelaise"
+    ],
+    "Légumes / féculents": [
+      "Riz créole",
+      "Champignons à la crème",
+      "Haricots verts persillés"
+    ],
+    "Fromages": [
+      "Saint-Paulin"
+    ],
+    "Desserts": [
+      "Crème dessert chocolat",
+      "Banane"
+    ]
+  },
+
+  "MARDI": {
+    "date": "03 février",
+    "Hors d'œuvre": [
+      "Salade mikado (céleri, carotte, coriandre)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Sauté de porc moutarde à l'ancienne",
+      "Poisson du jour sauce armoricaine"
+    ],
+    "Légumes / féculents": [
+      "Lentilles",
+      "Duo de carottes et panais"
+    ],
+    "Fromages": [
+      "Yaourt bio"
+    ],
+    "Desserts": [
+      "Pêches au coulis chantilly",
+      "Fromage blanc fruité"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "04 février",
+    "Hors d'œuvre": [
+      "Céréales à l'indienne"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Rôti de dinde façon Orloff",
+      "Colin beurre blanc"
+    ],
+    "Légumes / féculents": [
+      "Pommes noisette",
+      "Pommes campagnardes"
+    ],
+    "Fromages": [
+      "Chèvre"
+    ],
+    "Desserts": [
+      "Gâteau chocolat",
+      "Fruits de saison"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "05 février",
+    "Hors d'œuvre": [
+      "Salade bretonne (chou-fleur, carotte, maïs)"
+    ],
+    "Entrée chaude": [
+      "Crêpe fourrée (béchamel, pomme, confit d’oignons)"
+    ],
+    "Plats": [
+      "Saucisse de Toulouse",
+      "Poisson pané"
+    ],
+    "Légumes / féculents": [
+      "Penne au beurre",
+      "Brocolis"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Crêpes maison",
+      "Topping caramel beurre salé, chocolat"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "06 février",
+    "Hors d'œuvre": [
+      "Salade italienne (pâtes, olives, tomate, balsamique)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Omelette",
+      "Poisson du jour sauce oseille"
+    ],
+    "Légumes / féculents": [
+      "Purée",
+      "Endives braisées"
+    ],
+    "Fromages": [],
+    "Desserts": [
+      "Salade de fruits",
+      "Liégeois vanille",
+      "Brisure spéculoos, coulis"
+    ]
+  }
+}
