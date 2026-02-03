@@ -1,0 +1,119 @@
+{
+  "LUNDI": {
+    "date": "09 février",
+    "Hors d'œuvre": [
+      "Betterave à la framboise",
+      "Salade de thon (pomme de terre, maïs, tomate)"
+    ],
+    "Entrée chaude": [
+      "Soupe poireaux pomme de terre"
+    ],
+    "Plats": [
+      "Crépinette de dinde sauce cidre",
+      "Filet de colin en crumble",
+      "Blanquette de poisson"
+    ],
+    "Légumes / féculents": [
+      "Purée de céleri",
+      "Épinards à la crème"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Compote de pommes",
+      "Yaourt aromatisé"
+    ]
+  },
+
+  "MARDI": {
+    "date": "10 février",
+    "Hors d'œuvre": [
+      "Salade coleslaw",
+      "Chorizo"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Potée auvergnate"
+    ],
+    "Légumes / féculents": [
+      "Légumes de potée (chou vert, pomme de terre, carotte)"
+    ],
+    "Fromages": [
+      "Bûche du Pilat"
+    ],
+    "Desserts": [
+      "Gâteau à la poire",
+      "Banane"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "11 février",
+    "Hors d'œuvre": [
+      "Cake carotte cumin"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Émincé de poulet au curry",
+      "Poisson du jour aux amandes"
+    ],
+    "Légumes / féculents": [
+      "Céréales à l’indienne",
+      "Céréales au potiron"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Ananas frais",
+      "Flan nappé"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "12 février",
+    "Hors d'œuvre": [
+      "Salade d’endives aux noix"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Omelette",
+      "Poisson du jour coulis de poivron"
+    ],
+    "Légumes / féculents": [
+      "Farfalle au beurre",
+      "Ratatouille"
+    ],
+    "Fromages": [
+      "Mont Cadi"
+    ],
+    "Desserts": [
+      "Yaourt bio",
+      "Cookie maison",
+      "Mousse chocolat"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "13 février",
+    "Hors d'œuvre": [
+      "Chou blanc sauce yaourt"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Tortellini au fromage",
+      "Sauce tomate"
+    ],
+    "Légumes / féculents": [
+      "Salade verte",
+      "Carottes rôties au miel et épices"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Clémentines"
+    ]
+  }
+}
