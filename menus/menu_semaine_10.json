@@ -1,0 +1,124 @@
+{
+  "LUNDI": {
+    "date": "02 mars",
+    "Hors d'œuvre": [
+      "Betteraves",
+      "Salade pomme de terre thon",
+      "Pâté de foie"
+    ],
+    "Entrée chaude": [
+      "Pizza aux fromages et olives"
+    ],
+    "Plats": [
+      "Cœur de merlu coulis tomate",
+      "Boulette de bœuf tex-mex"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Légumes tajine"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Crème dessert chocolat",
+      "Yaourt aromatisé"
+    ]
+  },
+
+  "MARDI": {
+    "date": "03 mars",
+    "Hors d'œuvre": [
+      "Salade océane (perles, crevettes, ketchup)",
+      "Œufs mayonnaise"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Émincé de porc au boursin",
+      "Poisson du jour façon papillote"
+    ],
+    "Légumes / féculents": [
+      "Spaghetti",
+      "Carottes persillées"
+    ],
+    "Fromages": [
+      "Mont Cadi"
+    ],
+    "Desserts": [
+      "Compote pomme crumble cannelle",
+      "Yaourt brassé"
+    ]
+  },
+
+  "MERCREDI": {
+    "date": "04 mars",
+    "Hors d'œuvre": [
+      "Wrap crudités",
+      "Cornet au jambon"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Filet de colin beurre citron",
+      "Œufs durs sauce crème"
+    ],
+    "Légumes / féculents": [
+      "Purée",
+      "Gratin de chou-fleur"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Île flottante",
+      "Clémentine"
+    ]
+  },
+
+  "JEUDI": {
+    "date": "05 mars",
+    "Hors d'œuvre": [
+      "Macédoine de légumes",
+      "Céréales, carottes, concombre"
+    ],
+    "Entrée chaude": [
+      "Velouté de chou-fleur au sésame"
+    ],
+    "Plats": [
+      "Lasagnes au bœuf",
+      "Lasagnes de poisson"
+    ],
+    "Légumes / féculents": [
+      "Riz aux petits légumes",
+      "Salade verte"
+    ],
+    "Fromages": [
+      "Emmental"
+    ],
+    "Desserts": [
+      "Poire au chocolat",
+      "Fromage blanc au miel"
+    ]
+  },
+
+  "VENDREDI": {
+    "date": "06 mars",
+    "Hors d'œuvre": [
+      "Salade de fruits de mer"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Beignets de calamar",
+      "Escalope de poulet forestière"
+    ],
+    "Légumes / féculents": [
+      "Courgettes"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Salade de fruits",
+      "Liégeois vanille"
+    ]
+  }
+}
