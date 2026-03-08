@@ -1,0 +1,115 @@
+{
+  "LUNDI": {
+    "date": "09 mars",
+    "Hors d'œuvre": [
+      "Tomate vinaigrette",
+      "Pâté de campagne",
+      "Betterave au chèvre"
+    ],
+    "Entrée chaude": [
+      "Potage de légumes"
+    ],
+    "Plats": [
+      "Sauté de porc",
+      "Filet de poisson dugléré"
+    ],
+    "Légumes / féculents": [
+      "Pommes vapeur",
+      "Haricots verts persillés"
+    ],
+    "Fromages": [],
+    "Desserts": [
+      "Yaourt aux fruits",
+      "Ananas frais"
+    ]
+  },
+  "MARDI": {
+    "date": "10 mars",
+    "Hors d'œuvre": [
+      "Carottes râpées",
+      "Salade mikado (riz, thon, pêche, basilic)"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Poulet laqué miel soja",
+      "Poisson du jour crème gingembre"
+    ],
+    "Légumes / féculents": [
+      "Riz façon cantonnais",
+      "Brocoli"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Tartelette chocolat",
+      "Cocktail de fruits"
+    ]
+  },
+  "MERCREDI": {
+    "date": "11 mars",
+    "Hors d'œuvre": [
+      "Concombre à la menthe",
+      "Bouquet de crevettes"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Carbonade flamande",
+      "Cœur de merlu sauce pain d'épices"
+    ],
+    "Légumes / féculents": [
+      "Frites",
+      "Carottes braisées"
+    ],
+    "Fromages": [
+      "Saint-Paulin"
+    ],
+    "Desserts": [
+      "Compote crumble",
+      "Fromage blanc au coulis"
+    ]
+  },
+  "JEUDI": {
+    "date": "12 mars",
+    "Hors d'œuvre": [
+      "Chou rouge",
+      "Taboulé"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Rougail saucisse",
+      "Poisson en colombo"
+    ],
+    "Légumes / féculents": [
+      "Torsettes",
+      "Courgettes"
+    ],
+    "Fromages": [
+      "Camembert"
+    ],
+    "Desserts": [
+      "Flan à la vanille"
+    ]
+  },
+  "VENDREDI": {
+    "date": "13 mars",
+    "Hors d'œuvre": [
+      "Crudités"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Merguez",
+      "Poisson meunière"
+    ],
+    "Légumes / féculents": [
+      "Semoule",
+      "Légumes couscous"
+    ],
+    "Fromages": [
+      "Yaourt bio"
+    ],
+    "Desserts": [
+      "Yaourt aux fruits"
+    ]
+  }
+}
