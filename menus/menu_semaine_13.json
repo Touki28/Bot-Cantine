@@ -1,0 +1,113 @@
+{
+  "LUNDI": {
+    "date": "23 mars",
+    "Hors d'œuvre": [
+      "Tomates",
+      "Maïs / Haricots rouges",
+      "Carottes râpées"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Beignet de calamar",
+      "Émincé de dinde au coulis de tomate"
+    ],
+    "Légumes / féculents": [
+      "Riz",
+      "Haricots verts"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Crème dessert vanille",
+      "Yaourts aux fruits"
+    ]
+  },
+  "MARDI": {
+    "date": "24 mars",
+    "Hors d'œuvre": [
+      "Salade de pâtes sauce cocktail",
+      "Taboulé"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Bolognaise",
+      "Blanquette de poisson"
+    ],
+    "Légumes / féculents": [
+      "Spaghetti",
+      "Épinards"
+    ],
+    "Fromages": [
+      "Emmental"
+    ],
+    "Desserts": [
+      "Coupe de poire au caramel beurre salé",
+      "Fromage blanc fruité"
+    ]
+  },
+  "MERCREDI": {
+    "date": "25 mars",
+    "Hors d'œuvre": [
+      "Céleri fromage blanc, moutarde",
+      "Cœur de palmier"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Escalope de porc chorizo, poivron",
+      "Poisson du jour coulis poivron"
+    ],
+    "Légumes / féculents": [
+      "Purée de carottes",
+      "Courgettes au thym"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Compote pommes brisure spéculoos",
+      "Yaourt bio"
+    ]
+  },
+  "JEUDI": {
+    "date": "26 mars",
+    "Hors d'œuvre": [
+      "Œufs durs mayonnaise"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Tortellini ricotta épinard",
+      "Sauce crème"
+    ],
+    "Légumes / féculents": [
+      "Salade verte",
+      "Gratin choux fleurs"
+    ],
+    "Fromages": [
+      "Saint-Paulin"
+    ],
+    "Desserts": [
+      "Gâteau à l'ananas"
+    ]
+  },
+  "VENDREDI": {
+    "date": "27 mars",
+    "Hors d'œuvre": [
+      "Macédoine au curry"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Poisson à la bordelaise",
+      "Omelette"
+    ],
+    "Légumes / féculents": [
+      "Pommes vapeur"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Mousse chocolat"
+    ]
+  }
+}

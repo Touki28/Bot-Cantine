@@ -1,0 +1,114 @@
+{
+  "LUNDI": {
+    "date": "16 mars",
+    "Hors d'œuvre": [
+      "Macédoine de légumes au Boursin",
+      "Salade de thon, pomme de terre"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Hachis parmentier",
+      "Brandade de poisson"
+    ],
+    "Légumes / féculents": [
+      "Salade verte",
+      "Carottes"
+    ],
+    "Fromages": [
+      "Camembert"
+    ],
+    "Desserts": [
+      "Liégeois vanille",
+      "Poire au caramel beurre salé"
+    ]
+  },
+  "MARDI": {
+    "date": "17 mars",
+    "Hors d'œuvre": [
+      "Céleri au fromage blanc",
+      "Museaux"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Cassoulet",
+      "Œufs durs"
+    ],
+    "Légumes / féculents": [
+      "Haricots blancs",
+      "Gratin de courgettes"
+    ],
+    "Fromages": [
+      "Tome blanche"
+    ],
+    "Desserts": [
+      "Entremet chocolat",
+      "Fruits de saison"
+    ]
+  },
+  "MERCREDI": {
+    "date": "18 mars",
+    "Hors d'œuvre": [
+      "Cake au chorizo",
+      "Choux blanc râpé"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Palets de lentilles",
+      "Panini viande de kebab"
+    ],
+    "Légumes / féculents": [
+      "Farfalle au beurre",
+      "Printanière de légumes"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Gâteau aux pommes",
+      "Yaourt aromatisé"
+    ]
+  },
+  "JEUDI": {
+    "date": "19 mars",
+    "Hors d'œuvre": [
+      "Wrap de légumes",
+      "Cake aux carottes"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Pain bagnat au thon",
+      "Poisson à la provençale"
+    ],
+    "Légumes / féculents": [
+      "Semoule"
+    ],
+    "Fromages": [
+      "Emmental"
+    ],
+    "Desserts": [
+      "Cookie",
+      "Banane"
+    ]
+  },
+  "VENDREDI": {
+    "date": "20 mars",
+    "Hors d'œuvre": [
+      "Carottes au cumin"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Côtes de porc",
+      "Poisson graine de moutarde"
+    ],
+    "Légumes / féculents": [
+      "Semoule"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Fromage blanc fruité",
+      "Salade de fruits"
+    ]
+  }
+}
