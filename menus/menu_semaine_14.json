@@ -1,0 +1,116 @@
+{
+  "LUNDI": {
+    "date": "30 mars",
+    "Hors d'œuvre": [
+      "Tomate au balsamique",
+      "Chou blanc sauce yaourt"
+    ],
+    "Entrée chaude": [
+      "Croque raclette"
+    ],
+    "Plats": [
+      "Émincé de poulet au curry",
+      "Filet de colin sauce armoricaine"
+    ],
+    "Légumes / féculents": [
+      "Torti",
+      "Champignons à la crème"
+    ],
+    "Fromages": [
+      "Brie"
+    ],
+    "Desserts": [
+      "Crème dessert chocolat",
+      "Fromage blanc au miel"
+    ]
+  },
+  "MARDI": {
+    "date": "31 mars",
+    "Hors d'œuvre": [
+      "Salade de pâtes tomate, olive",
+      "Œufs durs façon coréenne"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Rôti de porc à la diable",
+      "Cœur de merlu sauce oseille"
+    ],
+    "Légumes / féculents": [
+      "Lentilles",
+      "Carottes en persillade"
+    ],
+    "Fromages": [
+      "Bûche du Pilat"
+    ],
+    "Desserts": [
+      "Pêches au coulis crumble fruits rouges",
+      "Yaourts aux fruits"
+    ]
+  },
+  "MERCREDI": {
+    "date": "01 avril",
+    "Hors d'œuvre": [
+      "Rillettes"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Steak fromager",
+      "Omelette"
+    ],
+    "Légumes / féculents": [
+      "Pommes vapeur",
+      "Carottes"
+    ],
+    "Fromages": [
+      "Fromage blanc"
+    ],
+    "Desserts": [
+      "Ananas frais",
+      "Compote de pommes"
+    ]
+  },
+  "JEUDI": {
+    "date": "02 avril",
+    "Hors d'œuvre": [
+      "Salade de riz, avocat, thon"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Sauté de poulet caramel soja",
+      "Teriyaki de saumon"
+    ],
+    "Légumes / féculents": [
+      "Nouilles chinoises",
+      "Poêlée de légumes façon wok"
+    ],
+    "Fromages": [
+      "Mimolette"
+    ],
+    "Desserts": [
+      "Flan noix de coco",
+      "Salade de fruits exotiques"
+    ]
+  },
+  "VENDREDI": {
+    "date": "03 avril",
+    "Hors d'œuvre": [
+      "Carottes râpées"
+    ],
+    "Entrée chaude": [],
+    "Plats": [
+      "Bœuf bourguignon",
+      "Poisson en papillote"
+    ],
+    "Légumes / féculents": [
+      "Frites",
+      "Haricots verts"
+    ],
+    "Fromages": [
+      "Yaourt nature"
+    ],
+    "Desserts": [
+      "Fromage blanc fruité",
+      "Liégeois vanille"
+    ]
+  }
+}
